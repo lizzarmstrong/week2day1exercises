@@ -5,6 +5,7 @@ get '/' do
 	"
 	<style>
 	p { color: blue; }
+	li:hover { color: #ccc }
 	.done {text-decoration: line-through; }
 	</style>
 	<h1 id='thisheading'>Hello World!</h1>
